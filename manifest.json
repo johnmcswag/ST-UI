@@ -1,0 +1,11 @@
+{
+    "display_name": "UI Rework to resemble discord",
+    "loading_order": 69,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "Johny-Boii",
+    "version": "1.0.0",
+    "homePage": "https://github.com/johnmcswag/ST-UI"
+}
